@@ -1,1 +1,1 @@
-# Exercicios de Análise de Dados utilizando R
+# Exercicios de Análise de Dados utilizando R com Jamovi
